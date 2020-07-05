@@ -1,0 +1,35 @@
+~VERSION INFORMATION
+VERS.	2.0
+WRAP.	NO
+~WELL INFORMATION
+#MNEM.UNIT                 DATA                             DESCRIPTION
+#------------           ----------                     -------------------------
+STRT	.m		752.5000                       : Start Depth/Time
+STOP	.m		3636.7500                      : End Depth/Time
+STEP	.m		2                              : Sampling Interval
+WELL	. 		Shi201                         : Well Name
+EKB	. 		1225.5000                      : KB Value
+XCRD	. 		19367838.5800                  : X Coordinate
+YCRD	. 		4096711.8500                   : Y Coordinate
+NULL	. 		-9999.0000                     : Null Value
+~CURVE INFORMATION
+#MNEM.UNIT		    NAME AND VERSION               CURVE DESCRIPTION
+#------------------     -----------------------        -------------------------
+Depth   .m                                             : Depth
+P_TD    .null           Shi201syn01DT_1                : us/m
+~A
+    752.5000     502.2500 
+    754.5000     503.5207 
+    756.5000     504.7810 
+    758.5000     505.7921 
+    760.5000     506.8423 
+    762.5000     507.9681 
+    764.5000     509.2173 
+    766.5000     510.6827 
+    768.5000     511.8910 
+    770.5000     513.0703 
+    772.5000     514.2023 
+    774.5000     515.4398 
+    776.5000     516.5787 
+    778.5000     518.0243 
+    780.5000     519.4180 
